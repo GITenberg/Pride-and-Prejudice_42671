@@ -1,0 +1,148 @@
+_repo: Pride-and-Prejudice_42671
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Austen, Jane
+    birthdate: 1775
+    deathdate: 1817
+    gutenberg_agent_id: '68'
+    url: http://www.gutenberg.org/2009/agents/68
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Austen
+  editor:
+    agent_name: Chapman, R. W. (Robert William)
+    alias: Chapman, Robert William
+    birthdate: 1881
+    deathdate: 1960
+    gutenberg_agent_id: '41809'
+    url: http://www.gutenberg.org/2009/agents/41809
+description: "Pride and Prejudice is a romantic novel by Jane Austen, first published\
+  \ in 1813. The story charts the emotional development of the protagonist, Elizabeth\
+  \ Bennet, who learns the error of making hasty judgments and comes to appreciate\
+  \ the difference between the superficial and the essential. The comedy of the writing\
+  \ lies in the depiction of manners, education, marriage, and money during the British\
+  \ Regency period.\nMr. Bennet of the Longbourn estate has five daughters, but his\
+  \ property is entailed, meaning that none of the girls can inherit it. His wife\
+  \ has no fortune, so it is imperative that at least one of the girls marry well\
+  \ in order to support the others upon his death. Jane Austen's opening line, “It\
+  \ is a truth universally acknowledged that a single man in possession of a good\
+  \ fortune must be in want of a wife\", is a sentence filled with irony and playfulness.\
+  \ The novel revolves around the importance of marrying for love, not simply for\
+  \ money, despite the social pressures to make a good (i.e., wealthy) match.\nPride\
+  \ and Prejudice has long fascinated readers, consistently appearing near the top\
+  \ of lists of \"most-loved books\" among both literary scholars and the general\
+  \ public. It has become one of the most popular novels in English literature, with\
+  \ over 20 million copies sold, and paved the way for many archetypes that abound\
+  \ in modern literature. For more than a century, amateur and professional dramatic\
+  \ adaptations, print continuations and sequels, and film and TV versions of Pride\
+  \ and Prejudice have reimagined the original novel's memorable characters and themes\
+  \ to reach mass audiences. The 2005 film, Pride & Prejudice, starring Keira Knightley\
+  \ and Matthew Macfadyen is the most recent Hollywood adaptation of the book.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2013-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42671'
+  wikidata: Q170583
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcc 'PR'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Love stories'
+title: Pride and Prejudice
+url: http://www.gutenberg.org/ebooks/42671
+wikipedia:
+- https://sv.wikisource.org/wiki/Stolthet_och_f%C3%B6rdom
+- https://fi.wikipedia.org/wiki/Ylpeys_ja_ennakkoluulo
+- https://fr.wikiquote.org/wiki/Orgueil_et_Pr%C3%A9jug%C3%A9s
+- https://sl.wikipedia.org/wiki/Prevzetnost_in_pristranost
+- https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B4%D1%96%D1%81%D1%82%D1%8C_%D1%96_%D1%83%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F
+- https://hr.wikisource.org/wiki/Ponos_i_predrasude
+- https://fa.wikipedia.org/wiki/%D8%BA%D8%B1%D9%88%D8%B1_%D9%88_%D8%AA%D8%B9%D8%B5%D8%A8
+- https://ky.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BC%D1%8B%D1%81_%D0%B6%D0%B0%D0%BD%D0%B0_%D1%81%D0%BE%D0%BA%D1%83%D1%80_%D0%B8%D1%88%D0%B5%D0%BD%D0%B8%D0%BC
+- https://uk.wikiquote.org/wiki/%D0%93%D0%BE%D1%80%D0%B4%D1%96%D1%81%D1%82%D1%8C_%D1%96_%D1%83%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F
+- https://war.wikipedia.org/wiki/Pride_and_Prejudice
+- https://vi.wikipedia.org/wiki/Ki%C3%AAu_h%C3%A3nh_v%C3%A0_%C4%91%E1%BB%8Bnh_ki%E1%BA%BFn
+- https://en.wikisource.org/wiki/Pride_and_Prejudice
+- https://hy.wikipedia.org/wiki/%D5%80%D5%BA%D5%A1%D6%80%D5%BF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6_%D6%87_%D5%B6%D5%A1%D5%AD%D5%A1%D5%BA%D5%A1%D5%B7%D5%A1%D6%80%D5%B4%D5%B8%D6%82%D5%B6%D6%84
+- https://es.wikipedia.org/wiki/Orgullo_y_prejuicio_(novela)
+- https://ms.wikipedia.org/wiki/Pride_and_Prejudice
+- https://he.wikipedia.org/wiki/%D7%92%D7%90%D7%95%D7%95%D7%94_%D7%95%D7%93%D7%A2%D7%94_%D7%A7%D7%93%D7%95%D7%9E%D7%94
+- https://kk.wikipedia.org/wiki/%D0%A2%D3%99%D0%BA%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%BB%D1%8B%D2%9B_%D0%BF%D0%B5%D0%BD_%D0%B6%D0%B0%D2%A3%D1%8B%D0%BB%D1%8B%D1%81
+- https://el.wikipedia.org/wiki/%CE%A0%CE%B5%CF%81%CE%B7%CF%86%CE%AC%CE%BD%CE%B9%CE%B1_%CE%BA%CE%B1%CE%B9_%CE%A0%CF%81%CE%BF%CE%BA%CE%B1%CF%84%CE%AC%CE%BB%CE%B7%CF%88%CE%B7
+- https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A8%B0%E0%A8%BE%E0%A8%88%E0%A8%A1_%E0%A8%90%E0%A8%82%E0%A8%A1_%E0%A8%AA%E0%A8%B0%E0%A9%88%E0%A8%9C%E0%A9%82%E0%A8%A1%E0%A8%BF%E0%A8%B8
+- https://fr.wikisource.org/wiki/Orgueil_et_Pr%C3%A9jug%C3%A9s
+- https://it.wikisource.org/wiki/Opera:Orgoglio_e_pregiudizio
+- https://sv.wikipedia.org/wiki/Stolthet_och_f%C3%B6rdom
+- https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%A1_%E0%A4%8F%E0%A4%82%E0%A4%A1_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A1%E0%A4%BF%E0%A4%B8
+- https://ja.wikipedia.org/wiki/%E9%AB%98%E6%85%A2%E3%81%A8%E5%81%8F%E8%A6%8B
+- https://et.wikiquote.org/wiki/Uhkus_ja_eelarvamus
+- https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B5%88%E0%B4%A1%E0%B5%8D_%E0%B4%86%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%8D_%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B5%86%E0%B4%9C%E0%B5%81%E0%B4%A1%E0%B4%BF%E0%B4%B8%E0%B5%8D_(%E0%B4%A8%E0%B5%8B%E0%B4%B5%E0%B5%BD)
+- https://hy.wikiquote.org/wiki/%D5%80%D5%BA%D5%A1%D6%80%D5%BF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6_%D6%87_%D5%B6%D5%A1%D5%AD%D5%A1%D5%BA%D5%A1%D5%B7%D5%A1%D6%80%D5%B4%D5%B8%D6%82%D5%B6%D6%84
+- https://arz.wikipedia.org/wiki/%D9%83%D8%A8%D8%B1%D9%8A%D8%A7%D8%A1_%D9%88_%D8%AA%D8%AD%D8%A7%D9%85%D9%84
+- https://lrc.wikipedia.org/wiki/%D8%BA%D9%88%D8%B1%D9%88%D9%99%D8%B1_%D9%88_%D8%AA%D8%A3%D8%B9%D8%A3%D8%B5%D9%88%DA%A4
+- https://el.wikiquote.org/wiki/%CE%A0%CE%B5%CF%81%CE%B7%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B1_%CE%BA%CE%B1%CE%B9_%CE%A0%CF%81%CE%BF%CE%BA%CE%B1%CF%84%CE%AC%CE%BB%CE%B7%CF%88%CE%B7
+- https://pt.wikiquote.org/wiki/Orgulho_e_Preconceito
+- https://sk.wikipedia.org/wiki/P%C3%BDcha_a_predsudok
+- https://sco.wikipedia.org/wiki/Pride_an_Prejudice
+- https://en.wikipedia.org/wiki/Pride_and_Prejudice
+- https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B4%D0%BE%D1%81%D1%82%D1%8C_%D0%B8_%D0%BF%D1%80%D0%B5%D0%B4%D1%83%D0%B1%D0%B5%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5
+- https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%A1_%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A6%A1%E0%A6%BF%E0%A6%B8
+- https://pl.wikiquote.org/wiki/Duma_i_uprzedzenie
+- https://ko.wikipedia.org/wiki/%EC%98%A4%EB%A7%8C%EA%B3%BC_%ED%8E%B8%EA%B2%AC
+- https://pt.wikipedia.org/wiki/Orgulho_e_Preconceito
+- https://et.wikipedia.org/wiki/Uhkus_ja_eelarvamus
+- https://fr.wikipedia.org/wiki/Orgueil_et_Pr%C3%A9jug%C3%A9s
+- https://sh.wikipedia.org/wiki/Pride_and_Prejudice
+- https://zh.wikipedia.org/wiki/%E5%82%B2%E6%85%A2%E8%88%87%E5%81%8F%E8%A6%8B
+- https://ro.wikipedia.org/wiki/M%C3%A2ndrie_%C8%99i_prejudecat%C4%83
+- https://simple.wikiquote.org/wiki/Pride_and_Prejudice
+- https://no.wikipedia.org/wiki/Stolthet_og_fordom
+- https://zh-yue.wikipedia.org/wiki/%E5%82%B2%E6%85%A2%E8%88%87%E5%81%8F%E8%A6%8B
+- https://en.wikiquote.org/wiki/Pride_and_Prejudice
+- https://pl.wikipedia.org/wiki/Duma_i_uprzedzenie
+- https://da.wikipedia.org/wiki/Stolthed_og_fordom
+- https://pt.wikisource.org/wiki/Em_Tradu%C3%A7%C3%A3o:Orgulho_e_Preconceito
+- https://fy.wikipedia.org/wiki/Pride_and_Prejudice_(roman)
+- https://ru.wikiquote.org/wiki/%D0%93%D0%BE%D1%80%D0%B4%D0%BE%D1%81%D1%82%D1%8C_%D0%B8_%D0%BF%D1%80%D0%B5%D0%B4%D1%83%D0%B1%D0%B5%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5
+- https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B9%8C
+- https://af.wikipedia.org/wiki/Pride_and_Prejudice
+- https://nl.wikipedia.org/wiki/Pride_and_Prejudice_(boek)
+- https://hu.wikipedia.org/wiki/B%C3%BCszkes%C3%A9g_%C3%A9s_bal%C3%ADt%C3%A9let_(reg%C3%A9ny)
+- https://is.wikipedia.org/wiki/Hroki_og_hleypid%C3%B3mar
+- https://mk.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B4%D0%BE%D1%81%D1%82_%D0%B8_%D0%BF%D1%80%D0%B5%D0%B4%D1%80%D0%B0%D1%81%D1%83%D0%B4%D0%B8
+- https://simple.wikipedia.org/wiki/Pride_and_Prejudice
+- https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%98%E1%83%90%E1%83%9B%E1%83%90%E1%83%A7%E1%83%94_%E1%83%93%E1%83%90_%E1%83%AA%E1%83%A0%E1%83%A3%E1%83%A0%E1%83%AC%E1%83%9B%E1%83%94%E1%83%9C%E1%83%90
+- https://ar.wikipedia.org/wiki/%D9%83%D8%A8%D8%B1%D9%8A%D8%A7%D8%A1_%D9%88%D8%AA%D8%AD%D8%A7%D9%85%D9%84_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://lb.wikipedia.org/wiki/Pride_and_Prejudice
+- https://id.wikipedia.org/wiki/Pride_and_Prejudice
+- https://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%A1_%E0%A4%85%E0%A4%81%E0%A4%A1_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A1%E0%A5%80%E0%A4%B8
+- https://eu.wikipedia.org/wiki/Harrotasuna_eta_aurrejuzguak
+- https://de.wikipedia.org/wiki/Stolz_und_Vorurteil
+- https://zh.wikiquote.org/wiki/%E5%82%B2%E6%85%A2%E8%88%87%E5%81%8F%E8%A6%8B
+- https://ur.wikipedia.org/wiki/%D8%AA%DA%A9%D8%A8%D8%B1_%D8%A7%D9%88%D8%B1_%D8%AA%D8%B9%D8%B5%D8%A8_(%D9%86%D8%A7%D9%88%D9%84)
+- https://lv.wikipedia.org/wiki/Lepnums_un_aizspriedumi
+- https://cs.wikipedia.org/wiki/P%C3%BDcha_a_p%C5%99edsudek
+- https://cy.wikipedia.org/wiki/Pride_and_Prejudice
+- https://bg.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B4%D0%BE%D1%81%D1%82_%D0%B8_%D0%BF%D1%80%D0%B5%D0%B4%D1%80%D0%B0%D0%B7%D1%81%D1%8A%D0%B4%D1%8A%D1%86%D0%B8
+- https://it.wikipedia.org/wiki/Orgoglio_e_pregiudizio
+- https://vi.wikiquote.org/wiki/Ki%C3%AAu_h%C3%A3nh_v%C3%A0_%C4%91%E1%BB%8Bnh_ki%E1%BA%BFn
+- https://la.wikipedia.org/wiki/Superbia_et_odium
+- https://hr.wikipedia.org/wiki/Ponos_i_predrasude
+- https://cs.wikiquote.org/wiki/D%C3%ADlo:P%C3%BDcha_a_p%C5%99edsudek
+- https://ca.wikipedia.org/wiki/Orgull_i_prejudici_(novel%C2%B7la)
+- https://cdo.wikipedia.org/wiki/Ng%C3%B4%CC%A4-m%C3%A2ng_g%C3%A2e%CC%A4ng_Pi%C4%95ng-gi%C3%A9ng
+- https://tr.wikipedia.org/wiki/Gurur_ve_%C3%96nyarg%C4%B1
+- https://sr.wikipedia.org/wiki/Gordost_i_predrasuda
+- https://es.wikiquote.org/wiki/Orgullo_y_prejuicio
