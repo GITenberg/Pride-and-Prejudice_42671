@@ -41,6 +41,8 @@ description: "Pride and Prejudice is a romantic novel by Jane Austen, first publ
   \ to reach mass audiences. The 2005 film, Pride & Prejudice, starring Keira Knightley\
   \ and Matthew Macfadyen is the most recent Hollywood adaptation of the book.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42671#Pride-and-Prejudice
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2013-05-09'
 gutenberg_type: Text
